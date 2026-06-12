@@ -2,7 +2,7 @@
 <html lang="id">
 <head>
     <meta charset="UTF-8">
-    <title>Hasil Input</title>
+    <title>Hasil</title>
 </head>
 <body>
 
